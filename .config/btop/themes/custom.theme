@@ -1,0 +1,68 @@
+# Catppuccin Mocha colors, peach
+
+# Main background
+theme[main_bg]="#1e1e2e"
+
+# Main text
+theme[main_fg]="#cdd6f4"
+
+# Box titles
+theme[title]="#fab387"
+
+# Highlighted keys / shortcuts
+theme[hi_fg]="#cba6f7"
+
+# Selected process row background / foreground
+theme[selected_bg]="#313244"
+theme[selected_fg]="#f5c2e7"
+
+# Inactive / disabled text
+theme[inactive_fg]="#7f849c"
+
+# Misc process box colors (cpu, memory details)
+theme[proc_misc]="#a6adc8"
+
+# Box outlines
+theme[cpu_box]="#585b70"
+theme[mem_box]="#585b70"
+theme[net_box]="#585b70"
+theme[proc_box]="#585b70"
+
+# Dividers
+theme[div_line]="#6c7086"
+
+# Temperature graph colors (start, mid, end)
+theme[temp_start]="#8aadf4"   # low
+theme[temp_mid]="#a6e3a1"     # mid
+theme[temp_end]="#c6a0f6"     # high
+
+# CPU graph colors
+theme[cpu_start]="#8aadf4"
+theme[cpu_mid]="#a6e3a1"
+theme[cpu_end]="#c6a0f6"
+
+# Memory / Disk graphs
+theme[free_start]="#a6e3a1"
+theme[free_mid]=""
+theme[free_end]="#45475a"
+
+theme[cached_start]="#cba6f7"
+theme[cached_mid]=""
+theme[cached_end]="#45475a"
+
+theme[available_start]="#b4befe"
+theme[available_mid]=""
+theme[available_end]="#313244"
+
+theme[used_start]="#fab387"
+theme[used_mid]="#f5c2e7"
+theme[used_end]="#f9e2af"
+
+# Network graphs
+theme[download_start]="#94e2d5"
+theme[download_mid]="#89dceb"
+theme[download_end]="#f5c2e7"
+
+theme[upload_start]="#94e2d5"
+theme[upload_mid]="#89dceb"
+theme[upload_end]="#f5c2e7"

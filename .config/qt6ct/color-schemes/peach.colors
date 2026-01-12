@@ -1,0 +1,209 @@
+# SPDX-FileCopyrightText: Andrew Lake <jamboarder@gmail.com>
+# SPDX-FileCopyrightText: Marco Martin <notmart@gmail.com>
+# SPDX-FileCopyrightText: Nate Graham <nate@kde.org>
+# SPDX-FileCopyrightText: Noah Davis <noahadvs@gmail.com>
+# SPDX-FileCopyrightText: Neal Gompa <ngompa@kde.org>
+# SPDX-FileCopyrightText: David Redondo <kde@david-redondo.de>
+# SPDX-FileCopyrightText: Thomas Duckworth <tduck973564@gmail.com>
+# SPDX-License-Identifier: LGPL-2.0-or-later
+
+[ColorEffects:Disabled]
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=49,50,68
+BackgroundNormal=30,30,46
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:Complementary]
+BackgroundAlternate=49,50,68
+BackgroundNormal=24,24,37
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:Header]
+BackgroundAlternate=24,24,37
+BackgroundNormal=30,30,46
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:Header][Inactive]
+BackgroundAlternate=30,30,46
+BackgroundNormal=24,24,37
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:Selection]
+BackgroundAlternate=49,50,68
+BackgroundNormal=250,179,135
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=205,214,244
+ForegroundInactive=127,132,156
+ForegroundLink=249,226,175
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=30,30,46
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:Tooltip]
+BackgroundAlternate=24,24,37
+BackgroundNormal=30,30,46
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:View]
+BackgroundAlternate=24,24,37
+BackgroundNormal=17,17,27
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[Colors:Window]
+BackgroundAlternate=30,30,46
+BackgroundNormal=24,24,37
+DecorationFocus=250,179,135
+DecorationHover=250,179,135
+ForegroundActive=250,179,135
+ForegroundInactive=127,132,156
+ForegroundLink=137,180,250
+ForegroundNegative=243,139,168
+ForegroundNeutral=250,179,135
+ForegroundNormal=205,214,244
+ForegroundPositive=166,227,161
+ForegroundVisited=180,190,254
+
+[General]
+ColorScheme=CatppuccinMochaPeach
+Name=Catppuccin Mocha Peach
+Name[ar]=كاتبوتشين موكا خوخي
+Name[az]=Catppuccin Mocha Peach
+Name[bg]=Catppuccin Mocha Peach
+Name[bs]=Catppuccin Mocha Peach
+Name[ca]=Catppuccin Mocha Peach
+Name[ca@valencia]=Catppuccin Mocha Peach
+Name[cs]=Catppuccin Mocha Peach
+Name[da]=Catppuccin Mocha Peach
+Name[de]=Catppuccin Mocha Peach
+Name[el]=Catppuccin Mocha Peach
+Name[en_GB]=Catppuccin Mocha Peach
+Name[eo]=Catppuccin Mocha Peach
+Name[es]=Catppuccin Mocha Peach
+Name[et]=Catppuccin Mocha Peach
+Name[eu]=Catppuccin Mocha Peach
+Name[fi]=Catppuccin Mocha Peach
+Name[fr]=Catppuccin Mocha Peach
+Name[gl]=Catppuccin Mocha Peach
+Name[he]=Catppuccin Mocha Peach
+Name[hi]=Catppuccin Mocha Peach
+Name[hu]=Catppuccin Mocha Peach
+Name[ia]=Catppuccin Mocha Peach
+Name[id]=Catppuccin Mocha Peach
+Name[is]=Catppuccin Mocha Peach
+Name[it]=Catppuccin Mocha Peach
+Name[ja]=Catppuccin Mocha Peach
+Name[ka]=Catppuccin Mocha Peach
+Name[ko]=Catppuccin Mocha Peach
+Name[lt]=Catppuccin Mocha Peach
+Name[lv]=Catppuccin Mocha Peach
+Name[nb]=Catppuccin Mocha Peach
+Name[nl]=Catppuccin Mocha Peach
+Name[nn]=Catppuccin Mocha Peach
+Name[pa]=Catppuccin Mocha Peach
+Name[pl]=Catppuccin Mocha Peach
+Name[pt]=Catppuccin Mocha Peach
+Name[pt_BR]=Catppuccin Mocha Peach
+Name[ro]=Catppuccin Mocha Peach
+Name[ru]=Catppuccin Mocha Peach
+Name[sa]=Catppuccin Mocha Peach
+Name[sk]=Catppuccin Mocha Peach
+Name[sl]=Catppuccin Mocha Peach
+Name[sr]=Catppuccin Mocha Peach
+Name[sr@ijekavian]=Catppuccin Mocha Peach
+Name[sr@ijekavianlatin]=Catppuccin Mocha Peach
+Name[sr@latin]=Catppuccin Mocha Peach
+Name[sv]=Catppuccin Mocha Peach
+Name[ta]=Catppuccin Mocha Peach
+Name[tg]=Catppuccin Mocha Peach
+Name[tr]=Catppuccin Mocha Peach
+Name[uk]=Catppuccin Mocha Peach
+Name[zh_CN]=Catppuccin Mocha Peach
+Name[zh_TW]=Catppuccin Mocha Peach
+shadeSortColumn=true
+
+[KDE]
+contrast=4
+
+[WM]
+activeBackground=30,30,46
+activeBlend=205,214,244
+activeForeground=205,214,244
+inactiveBackground=24,24,37
+inactiveBlend=127,132,156
+inactiveForeground=127,132,156
